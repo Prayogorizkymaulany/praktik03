@@ -7,6 +7,14 @@ public class sepatugunung extends sepatu{
         System.out.println("Harganya Larang....");
         
     }
+
+    public String getJenissepatu() {
+        return jenissepatu;
+    }
+
+    public void setJenissepatu(String jenissepatu) {
+        this.jenissepatu = jenissepatu;
+    }
     
     
 }
