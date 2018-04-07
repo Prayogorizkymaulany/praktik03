@@ -6,7 +6,7 @@ public class sepatu {
     String ukuran;
     double harga; 
     
-    void cetakinfo(){
+    void cetakInfo(){
         System.out.println("Merk \t: "+merk+ "\n"+
                 "Warna \t:"+warna+"\n"+
                 "Ukuran \t:"+ukuran+"\n"+
